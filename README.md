@@ -1,0 +1,1 @@
+generate json hot key bindings for karabinder-elements
